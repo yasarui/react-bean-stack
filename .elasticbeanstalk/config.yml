@@ -1,0 +1,8 @@
+branch-defaults:
+  master:
+    environment: Reactsampleapplicationfinal-env
+global:
+  application_name: react-sample-application-final
+  default_platform: Docker running on 64bit Amazon Linux 2/3.5.3
+  default_region: ap-south-1
+  sc: git
